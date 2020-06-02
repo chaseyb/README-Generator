@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.1",
+  "description": "This system will ask the user some questions to create a ReadMe file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaseyb/README-Generator.git"
+  },
+  "author": "Chase Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaseyb/README-Generator/issues"
+  },
+  "homepage": "https://github.com/chaseyb/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
