@@ -26,10 +26,10 @@
   This project is licenced under Open
           
   ## Contribution
-  ### collab
+  collab
             
   ##  Tests
-  ### n/a
+  n/a
 
   ## Questions?
   * [chaseyb](https://github.com/chaseyb)
