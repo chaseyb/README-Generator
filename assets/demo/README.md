@@ -12,7 +12,7 @@
   - [Questions](#questions)
     
   ## Description
-  ### a simple app that creates a readme file for a user
+  a simple app that creates a readme file for a user
 
   ## Install
   ```
