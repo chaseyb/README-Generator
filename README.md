@@ -24,10 +24,10 @@ This is a simple generator that uses input from a user to dynamically generate a
 # Usage
 
 Open README-Generator in Terminal/CLI, and enter:
-
+```
 npm install inqurier
 node index.js 
-
+```
 # License
 
 Open Source. 
@@ -43,4 +43,3 @@ TBA
 # Questions?
 
 * chase.b.johnson@gmail.com 
-* github: chaseyb
