@@ -43,3 +43,7 @@ N/A
 # Questions?
 
 * chase.b.johnson@gmail.com 
+
+# Video Link 
+
+https://www.youtube.com/watch?v=2c_HhO8Vots&feature=youtu.be
