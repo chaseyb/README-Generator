@@ -42,7 +42,7 @@ N/A
 
 # Questions?
 
-* chase.b.johnson@gmail.com 
+chase.b.johnson@gmail.com 
 
 # Video Link 
 
