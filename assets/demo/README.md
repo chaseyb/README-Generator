@@ -1,6 +1,6 @@
 
-  # coding
-  ![badge](https://img.shields.io/badge/License-Apache-blue.svg)
+  # readme generator
+  ![badge](https://img.shields.io/badge/License-Open-blue.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -12,24 +12,24 @@
   - [Questions](#questions)
     
   ## Description
-  ### coding
+  ### a simple app that creates a readme file for a user
 
   ## Install
   ```
-  codiing
+  npm install
   ```
           
   ## Usage
-  ### dknflewf
+  creating a readme file
           
   ## Licences 
-  This project is licenced under Apache
+  This project is licenced under Open
           
   ## Contribution
-  ### efnlenlfc
+  ### collab
             
   ##  Tests
-  ### wkjenfef
+  ### n/a
 
   ## Questions?
   * [chaseyb](https://github.com/chaseyb)
