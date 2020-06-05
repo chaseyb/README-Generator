@@ -25,7 +25,7 @@ This is a simple generator that uses input from a user to dynamically generate a
 
 Open README-Generator in Terminal/CLI, and enter:
 ```
-npm install inqurier
+npm install
 node index.js 
 ```
 # License
