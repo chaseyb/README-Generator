@@ -42,6 +42,5 @@ TBA
 
 # Questions?
 
-* Chase Johnson 
 * chase.b.johnson@gmail.com 
 * github: chaseyb
